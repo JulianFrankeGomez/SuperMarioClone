@@ -19,5 +19,6 @@ public class Main {
         gamePanel.startGameThread();
 
         //Hallo Erik. Wie gehts?
+        //TODO player movement
     }
 }
