@@ -9,8 +9,13 @@ public class Main {
         window.setResizable(false);
         window.setTitle("Super Mario Clone");
 
+        GamePanel gamePanel = new GamePanel();
+        window.add(gamePanel);
+
         window.pack();
         window.setLocationRelativeTo(null);
         window.setVisible(true);
+
+        gamePanel.startGameThread();
     }
 }
