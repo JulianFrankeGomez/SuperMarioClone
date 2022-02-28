@@ -17,5 +17,7 @@ public class Main {
         window.setVisible(true);
 
         gamePanel.startGameThread();
+
+        //Hallo Erik
     }
 }
