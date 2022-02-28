@@ -18,6 +18,6 @@ public class Main {
 
         gamePanel.startGameThread();
 
-        //Hallo Erik
+        //Hallo Erik. Wie gehts?
     }
 }
